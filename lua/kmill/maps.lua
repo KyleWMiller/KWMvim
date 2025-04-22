@@ -6,6 +6,8 @@ end
 
 map("n", "<leader>l", "<CMD>Lazy<CR>") -- Save the current buffer (file)
 
+map("n", "<leader>mp", "<CMD>MarkdownPreviewToggle<CR>") -- Save the current buffer (file)
+
 map("n", "<leader>w", "<CMD>update<CR>") -- Save the current buffer (file)
 
 map("n", "<leader>q", "<CMD>q<CR>") -- Quit Neovim
